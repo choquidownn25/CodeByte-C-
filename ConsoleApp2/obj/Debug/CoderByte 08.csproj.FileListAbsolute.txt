@@ -1,0 +1,6 @@
+C:\Coderbyte\CoderByte\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+C:\Coderbyte\CoderByte\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+C:\Coderbyte\CoderByte\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+C:\Coderbyte\CoderByte\ConsoleApp2\obj\Debug\CoderByte 08.csproj.CoreCompileInputs.cache
+C:\Coderbyte\CoderByte\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+C:\Coderbyte\CoderByte\ConsoleApp2\obj\Debug\ConsoleApp2.pdb

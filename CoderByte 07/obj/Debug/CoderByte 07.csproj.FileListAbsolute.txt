@@ -1,0 +1,6 @@
+C:\Coderbyte\CoderByte\CoderByte 07\bin\Debug\CoderByte 07.exe.config
+C:\Coderbyte\CoderByte\CoderByte 07\bin\Debug\CoderByte 07.exe
+C:\Coderbyte\CoderByte\CoderByte 07\bin\Debug\CoderByte 07.pdb
+C:\Coderbyte\CoderByte\CoderByte 07\obj\Debug\CoderByte 07.csproj.CoreCompileInputs.cache
+C:\Coderbyte\CoderByte\CoderByte 07\obj\Debug\CoderByte 07.exe
+C:\Coderbyte\CoderByte\CoderByte 07\obj\Debug\CoderByte 07.pdb
